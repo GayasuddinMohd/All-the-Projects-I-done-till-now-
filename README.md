@@ -30,3 +30,4 @@
 30. Dummy-Product-Funnel : Python | https://github.com/GayasuddinMohd/Dummy-Product-Funnel
 31. SaaS Product Analytics Dashboard or dodo-payments-dashboard: SQL, Python, Pandas, Streamlit, Plotly | https://github.com/GayasuddinMohd/dodo-payments-dashboard
 32. ✈️ Private Aviation Demand Predictor : Python, Web Scraping (BeautifulSoup, Requests), API Integration (AviationStack), Time-Series Forecasting (Prophet), Data Analysis & Visualization (Pandas, Matplotlib, Seaborn) | https://github.com/GayasuddinMohd/private-aviation-demand-predictor    
+33. ◈ RTB Campaign Intelligence Dashboard : Python, Pandas,NumPy, Plotly, Dash, SQLite,  DuckDB compatible SQL, Claude API, Jupyter(claude-sonnet-4-20250514) — AI brief generation  | https://github.com/GayasuddinMohd/rtb-intelligence
